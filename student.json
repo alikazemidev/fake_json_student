@@ -1,0 +1,67 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "ali",
+      "last_name": "kazemi",
+      "score": 175,
+      "course": "flutter expert",
+      "created_at": "1401/09/09",
+      "updated_at": "1401/09/09"
+    },
+    {
+      "id": 2,
+      "first_name": "amin",
+      "last_name": "kamyari",
+      "score": 155,
+      "course": "android expert",
+      "created_at": "1400/10/01",
+      "updated_at": "1400/10/09"
+    },
+    {
+      "id": 3,
+      "first_name": "yashar",
+      "last_name": "amini",
+      "score": 205,
+      "course": "flutter expert",
+      "created_at": "1401/07/09",
+      "updated_at": "1401/07/09"
+    },
+    {
+      "id": 4,
+      "first_name": "ali",
+      "last_name": "kazemi",
+      "score": 175,
+      "course": "flutter expert",
+      "created_at": "1401/09/09",
+      "updated_at": "1401/09/09"
+    },
+    {
+      "id": 5,
+      "first_name": "yashar",
+      "last_name": "amini",
+      "score": 205,
+      "course": "flutter expert",
+      "created_at": "1401/07/09",
+      "updated_at": "1401/07/09"
+    },
+    {
+      "id": 6,
+      "first_name": "amin",
+      "last_name": "kamyari",
+      "score": 155,
+      "course": "android expert",
+      "created_at": "1400/10/01",
+      "updated_at": "1400/10/09"
+    },
+    {
+      "id": 7,
+      "first_name": "ali",
+      "last_name": "kazemi",
+      "score": 175,
+      "course": "flutter expert",
+      "created_at": "1401/09/09",
+      "updated_at": "1401/09/09"
+    }
+  ]
+}
